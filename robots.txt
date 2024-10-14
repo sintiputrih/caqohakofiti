@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://caqohakofiti.pages.dev/sitemap.xml
